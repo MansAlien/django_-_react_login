@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   web:
-    image: mansalien/django_start:v0.1
+    image: mansalien/drf_react_login:v0.1
     build:
       context: .
     expose:
